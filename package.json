@@ -20,8 +20,8 @@
   "dependencies": {},
   "devDependencies": {
     "@lodder/grunt-postcss": "^2.0.4",
-    "autoprefixer": "^9.8.0",
-    "grunt": "^1.1.0",
+    "autoprefixer": "^9.8.5",
+    "grunt": "^1.2.1",
     "grunt-accessibility": "^6.0.0",
     "grunt-bootlint": "^1.1.0",
     "grunt-contrib-clean": "^2.0.0",
@@ -35,13 +35,13 @@
     "grunt-doctype": "^2.0.2",
     "grunt-eslint": "^23.0.0",
     "grunt-filerev": "^2.3.1",
-    "grunt-html": "^14.1.0",
+    "grunt-html": "^14.2.0",
     "grunt-jekyll": "^1.0.1",
-    "grunt-purgecss": "^2.2.0",
+    "grunt-purgecss": "^2.3.0",
     "grunt-sri-hash": "^1.1.5",
     "grunt-usemin": "^3.1.1",
     "load-grunt-tasks": "^5.1.0",
-    "postcss-combine-duplicated-selectors": "^8.1.0",
+    "postcss-combine-duplicated-selectors": "^9.0.0",
     "time-grunt": "^2.0.0"
   },
   "engines": {
